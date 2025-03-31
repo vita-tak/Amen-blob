@@ -2,11 +2,13 @@
 
 This project is a real-time audiovisual visualization built with [p5.js](https://p5js.org/). The application creates dynamic animations that respond to the audio input of a processed amen break, offering an engaging visual representation of sound dynamics.
 
+<img width="1265" alt="amen-blob" src="https://github.com/user-attachments/assets/7fa65aac-4bbe-46e1-8ead-e5a800441582" />
+
 ## Overview
 
 The project has the capabilities to:
-- Render animations that change in real-time.
 - Analyze audio amplitude to drive visual effects.
+- Render animations that change in real-time.
 - Allow user interaction (e.g., clicking to play or pause the audio).
 
 ## Features
