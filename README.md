@@ -2,6 +2,8 @@
 
 This project is a real-time audiovisual visualization built with [p5.js](https://p5js.org/). The application creates dynamic animations that respond to the audio input of a processed amen break, offering an engaging visual representation of sound dynamics.
 
+Test it out!: [Amen blob](https://vita-tak.github.io/Amen-blob/)
+
 <img width="1265" alt="amen-blob" src="https://github.com/user-attachments/assets/7fa65aac-4bbe-46e1-8ead-e5a800441582" />
 
 ## Overview
